@@ -1,0 +1,23 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/core-build/serve.schema.json",
+  "port": 4321,
+  "https": true,
+  "serveConfigurations": {
+    "default": {
+      "pageUrl": "https://dattabase.sharepoint.com/sites/demo/SitePages/Custom-Ribbon-Demo.aspx",
+      "customActions": {
+        "5c0207e3-2909-49e1-a63c-7ed352750fbb": {
+          "location": "ClientSideExtension.ApplicationCustomizer"
+        }
+      }
+    },
+    "navBar": {
+      "pageUrl": "https://dattabase.sharepoint.com/sites/demo/SitePages/Custom-Ribbon-Demo.aspx",
+      "customActions": {
+        "5c0207e3-2909-49e1-a63c-7ed352750fbb": {
+          "location": "ClientSideExtension.ApplicationCustomizer"
+        }
+      }
+    }
+  }
+}
