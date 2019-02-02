@@ -16,7 +16,7 @@
     "@microsoft/sp-core-library": "~1.4.0",
     "@microsoft/sp-dialog": "~1.4.0",
     "@types/webpack-env": ">=1.12.1 <1.14.0",
-    "gd-sprest-bs": "^1.6.5"
+    "gd-sprest-bs": "^1.6.7"
   },
   "devDependencies": {
     "@microsoft/sp-build-web": "~1.4.0",
